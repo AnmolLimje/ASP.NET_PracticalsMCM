@@ -8,7 +8,6 @@
     <style>
         .button{
             background:green;
-            border:solid 1px grey;
         }
         .button:hover{
             background:yellow;

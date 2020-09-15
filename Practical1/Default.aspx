@@ -14,7 +14,9 @@
         <div>
             <asp:CheckBox ID="CheckBox1" runat="server" Text="Select" />
         </div>
-        <asp:Label ID="Label1" runat="server" Text="Hello World"></asp:Label>
+        <div>
+            <asp:Label ID="Label1" runat="server" Text="Hello"></asp:Label>
+        </div>
     </form>
 </body>
 </html>
