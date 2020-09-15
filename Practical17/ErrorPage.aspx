@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Practical17.Default" Trace="true" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ErrorPage.aspx.cs" Inherits="Practical17.ErrorPage" %>
 
 <!DOCTYPE html>
 
@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            INDEX OUT OF RANGE, Custom Error Coccured
         </div>
     </form>
 </body>

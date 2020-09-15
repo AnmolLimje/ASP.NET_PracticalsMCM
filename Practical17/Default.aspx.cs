@@ -20,7 +20,7 @@ namespace Practical17
                 }
                 catch (IndexOutOfRangeException exc)
                 {
-                    Response.Write("</br>"+exc.Message);
+                    Response.Redirect("ErrorPage.aspx");
                 }
             }
         }
